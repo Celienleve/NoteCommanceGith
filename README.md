@@ -29,20 +29,22 @@ Ouvrire gitBash
 
  "touch .gitignore " = création fichier git ignore
  "#" = Commentaire
+
+ .DS_STore 
+.idea/
+.vscode/
  ________________________________________________________________________________
 Branche GitHub
  "git branch" = liste des branche local
  "git branch -r" = Listes des branches distantes
  "git branch -a" = Listes des branche local t distance
- "git branch NAME" = Création d'une branche local NAME
+ "git branch NAME" = Création d une branche local NAME
  "git branch -d NAME" = Suppression branche local NAME
  "git checkout NAME" = Déplacement sur une branche local NAME
  "git checkout -b NAME" = Création et déplacement sur une branche local NAME
  "git checkout --track REMOTE/NAME" = Ajouter une branche en local avec le même nom
 
-.DS_STore 
-.idea/
-.vscode/
+
  
 ```
 
