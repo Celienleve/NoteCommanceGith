@@ -24,6 +24,15 @@ Ouvrire gitBash
  "git fetch" = mettre à jour meta data
  "git checkout NomBranche" = Changer de branche
  "git push --set-upstream origin NomBRanche" = Ajoute New branche depos en ligne
+ ________________________________________________________________________________
+ Git Ignore = Blackliste fichier, pour ne pas toucher au fichier parasite
+
+ "touch .gitignore " = création fichier git ignore
+ "#" = Commentaire
+
+.DS_STore 
+.idea/
+.vscode/
  
 ```
 
