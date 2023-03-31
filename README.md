@@ -44,6 +44,8 @@ Branche GitHub
  "git checkout -b NAME" = Création et déplacement sur une branche local NAME
  "git checkout --track REMOTE/NAME" = Ajouter une branche en local avec le même nom
  "git checkout -b BDD origin/BDD" = récuperer branch distant BDD
+ "git push origin --delete BDD" = supprime branch distante
+ "git branch -d Accueil2" = supprime branch local
 
 
  
